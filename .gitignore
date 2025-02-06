@@ -1,0 +1,53 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environments
+data/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE / Editor folders and files
+.vscode/
+.idea/
+
+# macOS Finder
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Package distribution directories
+build/
+dist/
+*.egg-info/
+
+# Test results
+.coverage
+nosetests.xml
+pytest.xml
+*.coveragerc
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# Specific files for model training or output
+*.h5
+*.pkl
+*.npy
+*.npz
+
+# Specific files for the project (add your own)
+output_data/

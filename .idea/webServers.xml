@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b1271e4-e8db-4334-92e6-134751d3a50b" name="ontoprotein47633">
+        <fileTransfer accessType="SFTP" host="connect.westb.seetacloud.com" port="47633" sshConfigId="c3ae78c5-d4cb-496d-bf1f-a2d7ec34d1d3" sshConfig="root@connect.westb.seetacloud.com:47633 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b1bdbeed-deac-4c1b-8df3-5f5a8de2187f" name="ontoprotein52702">
+        <fileTransfer accessType="SFTP" host="connect.westb.seetacloud.com" port="52702" sshConfigId="fb9de9fb-a8f6-4bcc-81c0-ed07a5e9ff26" sshConfig="root@connect.westb.seetacloud.com:52702 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
