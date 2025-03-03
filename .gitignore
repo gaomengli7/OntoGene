@@ -4,7 +4,7 @@ __pycache__/
 *.pyo
 
 # Python virtual environments
-data/
+
 env/
 venv/
 ENV/
