@@ -4,9 +4,7 @@ __pycache__/
 *.pyo
 
 # Python virtual environments
-#data/model_data/
-#data/output_data/
-data/datasets/
+
 env/
 venv/
 ENV/
@@ -52,4 +50,4 @@ pytest.xml
 *.npz
 
 # Specific files for the project (add your own)
-output_data/
+#output_data/
