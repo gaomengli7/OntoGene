@@ -1,1 +1,8 @@
 data/ filter=lfs diff=lfs merge=lfs -text
+data/model_data/DNABERT filter=lfs diff=lfs merge=lfs -text
+data/model_data/PubMedBERT filter=lfs diff=lfs merge=lfs -text
+data/output_data/ filter=lfs diff=lfs merge=lfs -text
+data/output_data/ONTO filter=lfs diff=lfs merge=lfs -text
+data/output_data/model filter=lfs diff=lfs merge=lfs -text
+data/output_data/GENE filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
