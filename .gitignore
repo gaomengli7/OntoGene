@@ -4,8 +4,8 @@ __pycache__/
 *.pyo
 
 # Python virtual environments
-data/model_data/
-data/output_data/
+#data/model_data/
+#data/output_data/
 data/datasets/
 env/
 venv/
